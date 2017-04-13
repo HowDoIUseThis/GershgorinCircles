@@ -29,6 +29,7 @@ where the eigenvalues of the matrix in diagonal form are,
 
 If we were to plot the eigenvalues on our plot we would get,
 
+![alt tag](https://github.com/HowDoIUseThis/GershgorinCircles/blob/master/plotWithEig.png)
 
 
 ## Authors
